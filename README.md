@@ -144,7 +144,8 @@ matplotlib
 
 | App Home               |  CSV upload              |  Manual Entry              |  Prediction Output and Download  |
 | -----------------------| -------------------------| ---------------------------| ---------------------------------|
-|   appSS.png            |  appSS2.png              |  appSS1.png                |   appSS1.png                     |
+|   ![App Screenshot](appSS.png)            |  ![App Screenshot](appSS2.png)              |  ![App Screenshot](appSS.png)               |   ![App Screenshot](appSS.png)                    |
+
 ---
 
 ### 📌 Notes
