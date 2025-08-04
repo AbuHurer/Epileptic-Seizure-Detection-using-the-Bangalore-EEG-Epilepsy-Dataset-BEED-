@@ -1,4 +1,4 @@
-## 🧠 Epileptic Seizure Detection with Random Forest
+## 🧠 Epileptic Seizure Detection with Random Forest 
 
 ### ⚡ Powered by BEED Dataset | Streamlit App 🧪
 
