@@ -84,7 +84,7 @@ Epilepsy-Detection/
 
 ---
 
-### 🚀 How to Run the Project
+### 🚀 How to Run the Project 🚀
 
 #### 1️⃣ Clone the Repository
 
